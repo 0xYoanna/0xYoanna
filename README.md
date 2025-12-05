@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @0xYoanna
-- 👀 I’m interested in shredding on MTB, playing drums, making ceramics, painting with gouache, appreciating visual arts, skiing and finding way too many hobbies in general.
-- 🌱 I’m learning how to make blockchain a user-friendly space
 - 📫 How to reach me joanna.szymd@gmail.com
 
 <!---
